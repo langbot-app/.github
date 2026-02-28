@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://langbot.app">
-    <img width="130" src="https://raw.githubusercontent.com/langbot-app/.github/main/profile/assets/langbot-logo.png" alt="LangBot"/>
+    <img width="130" src="https://raw.githubusercontent.com/langbot-app/.github/main/profile/assets/logo-blue.png" alt="LangBot"/>
   </a>
 </p>
 
