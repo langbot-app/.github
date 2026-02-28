@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://langbot.app">
-    <img width="120" src="https://docs.langbot.app/langbot-logo.png" alt="LangBot"/>
+    <img width="120" src="https://raw.githubusercontent.com/langbot-app/.github/main/profile/assets/langbot-logo.png" alt="LangBot"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://langbot.app">Website</a> · <a href="https://docs.langbot.app/en/insight/guide.html">Docs</a> · <a href="https://space.langbot.app">Plugin Market</a> · <a href="https://demo.langbot.dev/">Live Demo</a> · <a href="https://langbot.featurebase.app/roadmap">Roadmap</a>
+  <a href="https://langbot.app">Website</a> · <a href="https://docs.langbot.app/en/insight/guide.html">Docs</a> · <a href="https://blog.langbot.app">Blog</a> · <a href="https://cloud.langbot.app">Cloud</a> · <a href="https://space.langbot.app">Plugin Market</a> · <a href="https://demo.langbot.dev/">Live Demo</a> · <a href="https://langbot.featurebase.app/roadmap">Roadmap</a>
 </p>
 
 ---
