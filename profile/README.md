@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://langbot.app">
-    <img width="120" src="https://raw.githubusercontent.com/langbot-app/.github/main/profile/assets/langbot-logo.png" alt="LangBot"/>
+    <img width="130" src="https://raw.githubusercontent.com/langbot-app/.github/main/profile/assets/langbot-logo.png" alt="LangBot"/>
   </a>
 </p>
 
@@ -10,10 +10,6 @@
   <a href="https://github.com/langbot-app/LangBot"><img src="https://img.shields.io/github/stars/langbot-app/LangBot?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/langbot-app/LangBot/releases/latest"><img src="https://img.shields.io/github/v/release/langbot-app/LangBot" alt="Release"></a>
   <a href="https://discord.gg/wdNEHETs87"><img src="https://img.shields.io/discord/1335141740050649118?logo=discord&label=Discord&color=%235462eb" alt="Discord"></a>
-</p>
-
-<p align="center">
-  <a href="https://langbot.app">Website</a> · <a href="https://docs.langbot.app/en/insight/guide.html">Docs</a> · <a href="https://blog.langbot.app">Blog</a> · <a href="https://cloud.langbot.app">Cloud</a> · <a href="https://space.langbot.app">Plugin Market</a> · <a href="https://demo.langbot.dev/">Live Demo</a> · <a href="https://langbot.featurebase.app/roadmap">Roadmap</a>
 </p>
 
 ---
@@ -35,6 +31,18 @@ uvx langbot
 ```
 
 Visit `http://localhost:5300` and you're ready to go. See the [documentation](https://docs.langbot.app/en/insight/guide.html) for Docker, cloud deploy, and other options.
+
+### Links
+
+| | |
+|---|---|
+| 🌐 **Website** | [langbot.app](https://langbot.app) |
+| 📖 **Documentation** | [docs.langbot.app](https://docs.langbot.app/en/insight/guide.html) |
+| 📝 **Blog** | [blog.langbot.app](https://blog.langbot.app) |
+| ☁️ **Cloud** | [cloud.langbot.app](https://space.langbot.app/cloud) |
+| 🧩 **Plugin Market** | [space.langbot.app](https://space.langbot.app) |
+| 🎮 **Live Demo** | [demo.langbot.dev](https://demo.langbot.dev/) |
+| 🗺️ **Roadmap** | [langbot.featurebase.app](https://langbot.featurebase.app/roadmap) |
 
 ### Repositories
 
