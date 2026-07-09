@@ -38,7 +38,7 @@ Visit `http://localhost:5300` and you're ready to go. See the [documentation](ht
 |---|---|
 | 🌐 **Website** | [langbot.app](https://langbot.app) |
 | 📖 **Documentation** | [docs.langbot.app](https://docs.langbot.app/en/insight/guide.html) |
-| 📝 **Blog** | [blog.langbot.app](https://blog.langbot.app) |
+| 📝 **Blog** | [langbot.app/en/blog](https://langbot.app/en/blog) |
 | ☁️ **Cloud** | [space.langbot.app/cloud](https://space.langbot.app/cloud) |
 | 🧩 **Plugin Market** | [space.langbot.app/market](https://space.langbot.app/market) |
 | 🎮 **Live Demo** | [demo.langbot.dev](https://demo.langbot.dev/) |
