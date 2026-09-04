@@ -49,7 +49,7 @@ Visit `http://localhost:5300` and you're ready to go. See the [documentation](ht
 | Repository | Description |
 |---|---|
 | [**LangBot**](https://github.com/langbot-app/LangBot) | Core platform — the bot engine, adapters, and web panel |
-| [**langbot-wiki**](https://github.com/langbot-app/langbot-wiki) | Documentation site |
+| [**langbot-docs**](https://github.com/langbot-app/langbot-docs) | Documentation site |
 | [**langbot-plugin-sdk**](https://github.com/langbot-app/langbot-plugin-sdk) | Plugin runtime, SDK, and CLI tools |
 | [**langbot-plugin-demo**](https://github.com/langbot-app/langbot-plugin-demo) | Plugin demos and officially maintained plugins |
 
