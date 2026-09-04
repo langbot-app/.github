@@ -30,14 +30,14 @@
 uvx langbot
 ```
 
-Visit `http://localhost:5300` and you're ready to go. See the [documentation](https://docs.langbot.app/en/insight/guide.html) for Docker, cloud deploy, and other options.
+Visit `http://localhost:5300` and you're ready to go. See the [documentation](https://langbot.app/docs/en/insight/guide.html) for Docker, cloud deploy, and other options.
 
 ### Links
 
 | | |
 |---|---|
 | 🌐 **Website** | [langbot.app](https://langbot.app) |
-| 📖 **Documentation** | [docs.langbot.app](https://docs.langbot.app/en/insight/guide.html) |
+| 📖 **Documentation** | [docs.langbot.app](https://langbot.app/docs/en/insight/guide.html) |
 | 📝 **Blog** | [langbot.app/en/blog](https://langbot.app/en/blog) |
 | ☁️ **Cloud** | [space.langbot.app/cloud](https://space.langbot.app/cloud) |
 | 🧩 **Plugin Market** | [space.langbot.app/market](https://space.langbot.app/market) |
