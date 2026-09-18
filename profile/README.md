@@ -34,6 +34,8 @@
 
 [![Deploy on LangBot Cloud](https://raw.githubusercontent.com/langbot-app/LangBot/master/res/langbot-cloud.svg)](https://cloud.langbot.app)
 
+[cloud.langbot.app](https://cloud.langbot.app)
+
 Build and manage your bots online without deploying or maintaining a server.
 
 #### Self-host with uvx
