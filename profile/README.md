@@ -38,13 +38,21 @@
 
 Build and manage your bots online without deploying or maintaining a server.
 
-#### Self-host with uvx
+#### Self-host with one command (recommended)
 
-Install [uv](https://docs.astral.sh/uv/getting-started/installation/), then run:
+macOS / Linux:
 
 ```bash
-uvx langbot
+curl -fsSL https://langbot.app/install.sh | bash
 ```
+
+Windows (PowerShell):
+
+```powershell
+irm https://langbot.app/install.ps1 | iex
+```
+
+This installs [lbctl](https://github.com/langbot-app/langbot-cli), the LangBot CLI, and deploys LangBot natively (Python is set up automatically) or with Docker — no admin rights needed. Then open http://localhost:5300 and upgrade any time with `lbctl upgrade`.
 
 #### Self-host with Docker Compose
 
